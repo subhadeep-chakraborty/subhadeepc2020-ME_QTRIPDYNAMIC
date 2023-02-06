@@ -22,12 +22,10 @@ Deployment using Netlify and Render
 
 ----------------------------------Frontend Link----------------------------------------------------
 
-Logs:              https://app.netlify.com/sites/quetrip/deploys/63e113ea3b9824009c1ad748
-Unique Deploy URL: https://63e113ea3b9824009c1ad748--quetrip.netlify.app
 Website URL:       https://quetrip.netlify.app
 
 
 ----------------------------------Backend Link----------------------------------------------------
 
-https://dashboard.render.com/web/srv-cfggokpgp3jjsed3m6c0/deploys/dep-cfggolhgp3jjsed3m7fg
+
 https://qtrip-dynamic-4mer.onrender.com
