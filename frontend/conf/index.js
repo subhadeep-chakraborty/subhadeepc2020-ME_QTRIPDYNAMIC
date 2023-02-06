@@ -1,3 +1,3 @@
-const config = { backendEndpoint: "http://13.126.250.175:8082" };
+const config = { backendEndpoint:"https://qtrip-dynamic-4mer.onrender.com"};
 
 export default config;
